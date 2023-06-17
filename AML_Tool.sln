@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AML_Tool", "AML_Tool.csproj", "{067BF49D-FE81-4F4C-B5E8-851E18400D3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AMLConversion_ClassLibrary", "..\AMLConversion_ClassLibrary\AMLConversion_ClassLibrary.csproj", "{ABE41367-7EE5-468E-93EF-F3CD4507006C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067BF49D-FE81-4F4C-B5E8-851E18400D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067BF49D-FE81-4F4C-B5E8-851E18400D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067BF49D-FE81-4F4C-B5E8-851E18400D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067BF49D-FE81-4F4C-B5E8-851E18400D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE41367-7EE5-468E-93EF-F3CD4507006C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE41367-7EE5-468E-93EF-F3CD4507006C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE41367-7EE5-468E-93EF-F3CD4507006C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE41367-7EE5-468E-93EF-F3CD4507006C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A56A15-4530-44D3-9817-DA0DE34244A2}
+	EndGlobalSection
+EndGlobal
